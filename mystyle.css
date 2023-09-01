@@ -1,0 +1,76 @@
+body {
+    background-image: url('https://i.ibb.co/nkC7x5v/mybackground.png');
+    background-size: cover;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #f09c20;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.profile-picture {
+    max-width: 300px;
+    border-radius: 50%;
+    margin: 0 auto;
+    margin-top: 45px;
+    display:flex;
+}
+
+.header {
+    text-align: center;
+    padding: 20px 0;
+}
+
+.name {
+    font-size: 28px;
+}
+
+.title {
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+.section {
+    margin-top: 30px;
+}
+
+.section h2 {
+    font-size: 24px;
+}
+
+.section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.section li {
+    margin-bottom: 10px;
+}
+
+.social-media-icon {
+    vertical-align: middle;
+    margin-right: 10px;
+    width: 30px; 
+    height: 30px; 
+}
+
+.white-text-link {
+    color: #f09c20;
+}
+.section h2 {
+font-size: 24px;
+color: white;
+}
+.white-color {
+color: white;
+font-size: 35px;
+margin-top: 30px;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
